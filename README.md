@@ -1,2 +1,2 @@
-# learning-supabase-prisma-vercel
-For learning supbase postgres, prisma and vercel deployment
+# learning-supabase-prisma
+For learning supbase postgres, prisma connection
